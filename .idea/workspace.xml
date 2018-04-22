@@ -220,7 +220,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524394968469</updated>
-      <workItem from="1524394971475" duration="8121000" />
+      <workItem from="1524394971475" duration="8141000" />
     </task>
     <task id="LOCAL-00001" summary="Number的一些方法">
       <created>1524404161136</created>
@@ -243,11 +243,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524410186645</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JS中数组的常用方法(包含es6扩展)">
+      <created>1524410207012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524410207012</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8121000" />
+    <option name="totallyTimeSpent" value="8141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="1176" extended-state="0" />
