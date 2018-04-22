@@ -52,8 +52,8 @@
       <file leaf-file-name="Array.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="94" column="27" lean-forward="true" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
+            <state relative-caret-position="352">
+              <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -220,7 +220,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524394968469</updated>
-      <workItem from="1524394971475" duration="8087000" />
+      <workItem from="1524394971475" duration="8121000" />
     </task>
     <task id="LOCAL-00001" summary="Number的一些方法">
       <created>1524404161136</created>
@@ -236,11 +236,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524405711797</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JS中数组的常用方法(包含es6扩展)">
+      <created>1524410186645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524410186645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8087000" />
+    <option name="totallyTimeSpent" value="8121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="1176" extended-state="0" />
@@ -299,7 +306,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Number的一些方法" />
     <MESSAGE value="Function的一些方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function的一些方法" />
+    <MESSAGE value="JS中数组的常用方法(包含es6扩展)" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS中数组的常用方法(包含es6扩展)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -334,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="94" column="27" lean-forward="true" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
+        <state relative-caret-position="352">
+          <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
