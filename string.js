@@ -28,7 +28,7 @@ console.info(msg.includes('o'))  //true
 
 console.info(msg.startsWith('w',6)) //true
 console.info(msg.endsWith('w',7)) //true
-console.info(msg.includes('w',)) //true
+console.info(msg.includes('w',6)) //true
 
 /*上面代码表示，使用第二个参数n时，endsWith的行为与其他两个方法有所不同。它针对前n个字符，而其他两个方法针对从第n个位置直到字符串结束。*/
 

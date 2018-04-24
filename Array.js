@@ -104,6 +104,24 @@ console.info([1, 2, 3].includes(2));    //true
 console.info([1, 2, 3].includes(4));    //false
 console.info([1, 2, 3,4,5,6].includes(4,4));    //false
 
+//数组去重
+var array = [1,2,2,3,4,23,3,4];
+
+function deleteSame(arr){
+    let result = [];
+    arr.map((value,index,arr)=>{
+        if(arr.indexOf(value)  === index){
+            result.push(value)
+        }
+    })
+    return result
+}
+
+console.info(deleteSame(array))
+
+
+
+
 
 
 
