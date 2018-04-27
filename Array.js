@@ -62,6 +62,7 @@ console.info(arr1)
 var data =[1,2,3]
 data.forEach(x=>console.info(x+1));  //2,3,4
 
+
 //map()
 const dataMap = data.map((x)=>{return x+2})  //[3,4,5]
 console.info(dataMap)
@@ -119,7 +120,9 @@ function deleteSame(arr){
 
 console.info(deleteSame(array))
 
-
+var arr10= [1,2,3,4,5];
+arr10.splice(arr10.indexOf(3),1);
+console.info(arr10)
 
 
 
